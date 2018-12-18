@@ -69,10 +69,10 @@ The objective of the player (Blue Sprite) is to eliminate all "Zombies" (Green S
 
 ### Game Loop
 
-# [ ]Build Instructions
+# Build Instructions
 
-# [ ]Issues
+# Issues
 
-# [ ]Improvements
+# Improvements
   
   
