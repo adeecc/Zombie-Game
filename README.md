@@ -4,12 +4,13 @@ A 2D single Player game in C++
 # Table of Contents:
   1. About
      - Gameplay
-  2. Documentation
-  3. Build Instructions
+  2. Requirements
      - Hardware Requirements
      - Software Requirements
-  4. Issues
-  5. Improvements
+  3. Documentation
+  4. Build Instructions
+  5. Issues
+  6. Improvements
  
 # About
 This is a simple 2D game using [SDL](https://www.libsdl.org/) and [OpenGL] (https://www.opengl.org/). The game renders several sprite batches at once, along with relevant textures and employs the use of Shaders (Vertex and Fragment). OpenGL interacts directly with the GPU, while SDL does not, limitng the game performance by cpu bottlenecking. 
@@ -30,15 +31,48 @@ The objective of the player (Blue Sprite) is to eliminate all "Zombies" (Green S
 - Pump Shotgun (2)
 - MP5 (3)
 
-# Documentation
-
-
-# Build Instructions
+# Requirements
 ## Hardware Requirements
+- CPU: 1.2 GHz or Higher
+- GPU: Embedded Graphics or Better
+- Ram: 2Gb or higher
+- OS: Windows 7/8/10
+
 ## Software Requirements
+- Microsoft Visual Studio 2015 or Higher
+- SDL
+- GLM
+- OpenGL
 
-# Issues
+# Documentation
+## Bengine: The Game Engine
 
-# Improvements
+### Basic First Principles: 
+#### Windows
+#### Timing
+### 2D Camera
+### Resource Manager, Textures and Sprites
+### Input Manager
+### Rendering
+### Cache
+### Error Handling
+
+
+## ZombieGame: The Game
+
+### Agents
+#### Humans
+#### Player
+#### Zombies
+
+### Gun
+
+### Game Loop
+
+# [ ]Build Instructions
+
+# [ ]Issues
+
+# [ ]Improvements
   
   
