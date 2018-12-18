@@ -86,13 +86,13 @@ Add SDL, GL and GLM to the list of dependancies, includes, deps, etc in visual s
 - Multiple types of textures are not rendered correctly in the level.
 
 # Improvements
-- Standardize the abilities of the agents and guns
-- Font rendering
-- Display score on screen, instead of terminal
-- Display blood on killing of agents
-- Audio Rendering
-- Add some sort of absolute scoring system
-- Optimizing the spriteBatch class even more
-- Optimizing the camera
-- Add more levels
+- [ ] Standardize the abilities of the agents and guns
+- [ ] Font rendering
+- [ ] Display score on screen, instead of terminal
+- [ ] Display blood on killing of agents
+- [ ] Audio Rendering
+- [ ] Add some sort of absolute scoring system
+- [ ] Optimizing the spriteBatch class even more
+- [ ] Optimizing the camera
+- [ ] Add more levels
   
